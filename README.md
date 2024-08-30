@@ -61,3 +61,5 @@ This guide will walk you through transforming the starter code into a complete, 
 2. **Validate HTML and CSS:** Use validation tools to ensure there are no errors in your HTML and CSS.
 
 By following these steps, you will transform the starter code into a fully responsive and styled footer using Tailwind CSS. This exercise will not only reinforce your understanding of Tailwind's utility classes but also improve your skills in creating responsive web layouts.
+
+FIND MY EXPLANATION VIDEO HERE: https://drive.google.com/file/d/1wBxckJKVDOXPgKx_aR6Y5c8kSXb8PS8E/view?usp=drive_link
